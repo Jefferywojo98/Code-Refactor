@@ -29,10 +29,8 @@ THEN they fall in sequential order
 WHEN YOU view the title element
 THEN YOU find a concise, descriptive title
 ```
-
 ## Table of Contents
 ---
-
 * [Technology Used](#technology-used)
 * [Links](#links)
 * [Screenshot](#screenshot)
@@ -54,7 +52,7 @@ ___
 
 ## Screenshot
 ___
-![screenshot](asset\horiseon.png)
+![horiseon](https://user-images.githubusercontent.com/87153472/141394597-4b86807f-afc9-4725-b585-4c9b7c1f094e.png)
 ## Usage
 ___
 
