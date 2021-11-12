@@ -49,7 +49,7 @@ ___
 ## Links
 ___
 - [GitHub Repository](https://github.com/Jefferywojo98)
-- [Deployed Application](https://jefferywojo98.github.io/Homework-7-31/#social-media-marketing)
+- [Deployed Application](https://jefferywojo98.github.io/Code-Refactor/)
 
 
 ## Usage
