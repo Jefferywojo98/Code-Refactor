@@ -35,6 +35,7 @@ THEN YOU find a concise, descriptive title
 
 * [Technology Used](#technology-used)
 * [Links](#links)
+* [Screenshot](#screenshot)
 * [Usage](#usage)
 * [Questions](#questions)
 * [License](#License)
@@ -51,7 +52,9 @@ ___
 - [GitHub Repository](https://github.com/Jefferywojo98)
 - [Deployed Application](https://jefferywojo98.github.io/Code-Refactor/)
 
-
+## Screenshot
+___
+![screenshot](asset\horiseon.png)
 ## Usage
 ___
 
